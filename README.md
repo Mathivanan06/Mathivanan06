@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mathivanan06
+- 👀 I’m interested in cricket and movies.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m currently studying at CIT.
